@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "510059067771",
+    "project_id": "fir-pruebauvg-f00d1",
+    "storage_bucket": "fir-pruebauvg-f00d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510059067771:android:bf7ca2e6c54b81e15b25de",
+        "android_client_info": {
+          "package_name": "com.uvg.firebasepruebauvg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510059067771-0b290gjrrreiehdu7mrg3gvjgimbi43q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVQ725R3796UTg2zKX2debv291Ri7gLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510059067771-0b290gjrrreiehdu7mrg3gvjgimbi43q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510059067771:android:8e9c109a55cb53475b25de",
+        "android_client_info": {
+          "package_name": "com.uvg.singlesignon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510059067771-rvnr3p5820mt7o765ecga8qt3e687cg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uvg.singlesignon",
+            "certificate_hash": "1e9b9a5227313d539e2dc95e6cd0299f728093b3"
+          }
+        },
+        {
+          "client_id": "510059067771-0b290gjrrreiehdu7mrg3gvjgimbi43q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVQ725R3796UTg2zKX2debv291Ri7gLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510059067771-0b290gjrrreiehdu7mrg3gvjgimbi43q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
